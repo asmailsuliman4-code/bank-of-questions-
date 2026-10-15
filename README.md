@@ -16,3 +16,18 @@
 ### ✍️ أعد بواسطة
 الأستاذ إسماعيل سليمان حسن
 تحديث: 15 أكتوبر 2026
+---
+
+## 📁 تصفح بنك الأسئلة مباشرة:
+
+### 🔵 المستوى السهل
+[اضغط هنا لتصفح الأسئلة السهلة](https://github.com/asmailsuliman4-code/bank-of-questions-/blob/main/easy.md)
+
+### 🟡 المستوى المتوسط
+[اضغط هنا لتصفح الأسئلة المتوسطة](https://github.com/asmailsuliman4-code/bank-of-questions-/blob/main/medium.md)
+
+### 🔴 المستوى الصعب
+[اضغط هنا لتصفح الأسئلة الصعبة](https://github.com/asmailsuliman4-code/bank-of-questions-/blob/main/hard.md)
+
+### ✅ الإجابات النموذجية
+[اضغط هنا لتصفح الإجابات](https://github.com/asmailsuliman4-code/bank-of-questions-/blob/main/answers.md)
